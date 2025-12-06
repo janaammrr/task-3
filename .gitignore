@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+target/
+bin/
+.gradle/
+.idea/
+.vscode/
+*.class
+*.jar
+*.war
+*.log
+.env
+.firebase/
